@@ -1,3 +1,4 @@
+<p align="center"><img src="src/resources/images/nickgabe.png" width="600"/></p>
 <a href="https://www.linkedin.com/in/engdann/"><img src="https://img.shields.io/badge/linkedin-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/></a>
 <a href="mailto:danilodemeloribeiro0@gmail.com"><img src="https://img.shields.io/badge/email-4D4577?logo=gmail&style=for-the-badge&logoColor=F2F2F2"/></a>
 
