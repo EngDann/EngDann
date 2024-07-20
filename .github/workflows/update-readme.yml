@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 0 * * *' 
+    - cron: '0 0 * * *' # Executa diariamente às 00:00 UTC
   push:
     branches:
       - main
@@ -23,14 +23,14 @@ jobs:
     - name: Run calculation script
       id: calc
       run: |
-        node calculatorExperience.js > experience.txt
+        node src/utils/calculatorExperience.js > experience.txt
         cat experience.txt
       shell: bash
 
     - name: Update README
       run: |
         experience=$(cat experience.txt)
-        sed -i "/^* Experience:/c\\* Experience: ${experience}" README.md
+        sed -i 's/\*\*Experience:.*$/\*\*Experience:\*\* ${experience}/' README.md
 
     - name: Commit changes
       run: |
