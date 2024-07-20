@@ -1,9 +1,4 @@
-<p align="center"><img src="src/resources/images/nickgabe.png" width="600"/></p>
-<a href="https://www.linkedin.com/in/engdann/"><img src="https://img.shields.io/badge/linkedin-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/></a>
-<a href="mailto:danilodemeloribeiro0@gmail.com"><img src="https://img.shields.io/badge/email-4D4577?logo=gmail&style=for-the-badge&logoColor=F2F2F2"/></a>
-
-<a href="https://nickgabe.vercel.app"><img src="https://img.shields.io/badge/website-4D4577?logo=esri&style=for-the-badge&logoColor=F2F2F2"/></a>
-<p align="center">👋 Heyyy! I'm Danilo de Melo, a brazilian sofrtwa.</p>
+<p align="center">👋 Heyyy! I'm Danilo de Melo, a brazilian software engenier.</p>
 
 ## **About me:**
 
@@ -30,14 +25,11 @@
 <img src="https://img.shields.io/badge/react-F73C7B?logo=react&style=for-the-badge&logoColor=F2F2F2"/>
 <img src="https://img.shields.io/badge/html5-4D4577?logo=html5&style=for-the-badge&logoColor=F2F2F2"/></p>
 
-## **Recent projects:**
+## **You can find me on:**
 
-<a href="https://github.com/Nick-Gabe/company-challenge"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=company-challenge&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
-<a href="https://github.com/Nick-Gabe/central-nickgabe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=central-nickgabe&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
-<a href="https://github.com/Nick-Gabe/FAPI-whack-a-potatoe"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=FAPI-whack-a-potatoe&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
-<a href="https://github.com/Nick-Gabe/better-format"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=better-format&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
-<a href="https://github.com/Nick-Gabe/elkjs"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=elkjs&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
-<a href="https://github.com/Nick-Gabe/dagre"><img src="https://github-readme-stats.vercel.app/api/pin/?username=nick-gabe&repo=dagre&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&icon_color=F2F2F2&border_radius=20" height="100"/></a>
+<a href="https://www.linkedin.com/in/engdann/"><img src="https://img.shields.io/badge/linkedin-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/></a>
+<a href="mailto:danilodemeloribeiro0@gmail.com"><img src="https://img.shields.io/badge/email-4D4577?logo=gmail&style=for-the-badge&logoColor=F2F2F2"/></a>
+<a href="https://nickgabe.vercel.app"><img src="https://img.shields.io/badge/website-4D4577?logo=esri&style=for-the-badge&logoColor=F2F2F2"/></a>
 
 <hr>
 
