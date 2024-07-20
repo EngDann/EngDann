@@ -3,7 +3,7 @@
 <a href="mailto:danilodemeloribeiro0@gmail.com"><img src="https://img.shields.io/badge/email-4D4577?logo=gmail&style=for-the-badge&logoColor=F2F2F2"/></a>
 
 <a href="https://nickgabe.vercel.app"><img src="https://img.shields.io/badge/website-4D4577?logo=esri&style=for-the-badge&logoColor=F2F2F2"/></a>
-<p align="center">👋 Heyyy! I'm Danilo de Melo, a brazilian software engenier.</p>
+<p align="center">👋 Heyyy! I'm Danilo de Melo, a brazilian sofrtwa.</p>
 
 ## **About me:**
 
