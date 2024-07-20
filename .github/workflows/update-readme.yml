@@ -23,7 +23,7 @@ jobs:
     - name: Run calculation script
       id: calc
       run: |
-        node calculateExperience.js > experience.txt
+        node calculatorExperience.js > experience.txt
         cat experience.txt
       shell: bash
 
