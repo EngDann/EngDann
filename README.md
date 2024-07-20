@@ -6,7 +6,8 @@
 - **Age:** 19 years
 - **Profession:** Front-end Web and Mobile Developer
 - **Currently Studying:** React Native
-- **Experience:** 3 Years, 8 Months, and 10 Days since I started programming
+- **Experience:** [Experience will be updated automatically]
+
 
 ## **Skills Wall**
 

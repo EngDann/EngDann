@@ -1,0 +1,42 @@
+name: Update README
+
+on:
+  schedule:
+    - cron: '0 0 * * *' 
+  push:
+    branches:
+      - main
+
+jobs:
+  update-readme:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v2
+
+    - name: Set up Node.js
+      uses: actions/setup-node@v2
+      with:
+        node-version: '14'
+
+    - name: Run calculation script
+      id: calc
+      run: |
+        node calculateExperience.js > experience.txt
+        cat experience.txt
+      shell: bash
+
+    - name: Update README
+      run: |
+        experience=$(cat experience.txt)
+        sed -i "/^* Experience:/c\\* Experience: ${experience}" README.md
+
+    - name: Commit changes
+      run: |
+        git config --local user.email "action@github.com"
+        git config --local user.name "GitHub Action"
+        git add README.md
+        git commit -m "Update experience in README"
+        git push
+      shell: bash
