@@ -28,19 +28,12 @@
   <img src="https://img.shields.io/badge/html5-4D4577?logo=html5&style=for-the-badge&logoColor=F2F2F2"/>
 </p>
 
-## **You Can Find Me On**
+## **You can find me on:**
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/engdann/">
-    <img src="https://img.shields.io/badge/linkedin-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/>
-  </a>
-  <a href="mailto:danilodemeloribeiro0@gmail.com">
-    <img src="https://img.shields.io/badge/email-4D4577?logo=gmail&style=for-the-badge&logoColor=F2F2F2"/>
-  </a>
-  <a href="https://nickgabe.vercel.app">
-    <img src="https://img.shields.io/badge/website-4D4577?logo=esri&style=for-the-badge&logoColor=F2F2F2"/>
-  </a>
-</p>
+<a href="https://www.linkedin.com/in/engdann/"><img src="https://img.shields.io/badge/linkedin-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/></a>
+<a href="mailto:danilodemeloribeiro0@gmail.com"><img src="https://img.shields.io/badge/email-4D4577?logo=gmail&style=for-the-badge&logoColor=F2F2F2"/></a>
+<a href="https://nickgabe.vercel.app"><img src="https://img.shields.io/badge/website-4D4577?logo=esri&style=for-the-badge&logoColor=F2F2F2"/></a>
+
 
 <hr>
 
