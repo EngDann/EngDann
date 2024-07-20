@@ -32,7 +32,7 @@ jobs:
         experience=$(cat experience.txt)
         sed -i 's/\*\*Experience:.*$/\*\*Experience:\*\* ${experience}/' README.md
 
-    - name: Commit changes
+    - name: Update README
       env:
         GH_TOKEN: ${{ secrets.GH_TOKEN }}
       run: |
