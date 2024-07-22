@@ -1,5 +1,12 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=845EC2&center=true&vCenter=true&width=435&lines=Hello%2C+there!+%F0%9F%91%8B+;Nice+to+meet+you!;This+is+Danilo)](https://git.io/typing-svg)
-<p align="center">👋 Heyyy! I'm Danilo de Melo, a Brazilian software engineer.</p>
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&pause=1000&color=845EC2&center=true&vCenter=true&width=435&lines=Hello%2C+there!+%F0%9F%91%8B+;Nice+to+meet+you!;This+is+Danilo" alt="Typing SVG">
+  </a>
+</div>
+
+<p align="center"></p>
+<p align="center">👋 Heyyy! I'm Danilo de Melo, a Brazilian software engineering student at University of Brasilia .
+</p>
 <p align="center"><a href="https://www.linkedin.com/in/engdann/"><img src="https://img.shields.io/badge/linkedin-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/></a>
 <a href="mailto:danilodemeloribeiro0@gmail.com"><img src="https://img.shields.io/badge/email-4D4577?logo=gmail&style=for-the-badge&logoColor=F2F2F2"/></a>
 <a href="mailto:danilodemeloribeiro0@gmail.com"><img src="https://img.shields.io/badge/website-4D4577?logo=esri&style=for-the-badge&logoColor=F2F2F2"/></a>
