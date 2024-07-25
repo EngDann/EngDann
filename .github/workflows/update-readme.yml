@@ -28,11 +28,13 @@ jobs:
       shell: bash
 
     - name: Update README
+      id: update-readme
       run: |
         experience=$(cat experience.txt)
-        sed -i 's/\*\*Experience:.*$/\*\*Experience:\*\* ${experience}/' README.md
+        sed -i "s/\*\*Experience:.*$/**Experience:** ${experience}/" README.md
+      shell: bash
 
-    - name: Update README
+    - name: Commit and push changes
       env:
         GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       run: |
