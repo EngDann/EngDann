@@ -18,7 +18,7 @@
 - **Age:** 19 years
 - **Profession:** Front-end Web and Mobile Developer
 - **Currently Studying:** React Native
-- **Experience:** 1 Years, 7 Months and 2 Days since I started programming
+- **Experience:** 1 Years, 7 Months and 3 Days since I started programming
 <p align="center">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/?username=EngDann&style=for-the-badge&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&show_icons=true&icon_color=F2F2F2&rank_icon=github"/>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngDann&&style=for-the-badge&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&show_icons=true&icon_color=F2F2F2&rank_icon=github&layout=compact"/> 
