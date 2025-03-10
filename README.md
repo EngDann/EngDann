@@ -5,7 +5,7 @@
 </div>
 
 <p align="center"></p>
-<p align="center">👋 Heyyy! I'm Danilo de Melo, a Brazilian software engineering student at University of Brasilia .
+<p align="center">👋 Heyyy! I'm Danilo de Melo.
 </p>
 <p align="center"><a href="https://www.linkedin.com/in/engdann/"><img src="https://img.shields.io/badge/linkedin-4D4577?style=for-the-badge&logoColor=F2F2F2&logo=linkedin"/></a>
 <a href="mailto:danilodemeloribeiro0@gmail.com"><img src="https://img.shields.io/badge/email-4D4577?logo=gmail&style=for-the-badge&logoColor=F2F2F2"/></a>
@@ -15,9 +15,8 @@
 ## **About Me**
 
 - **Name:** Danilo de Melo
-- **Age:** 19 years
 - **Profession:** Mobile Developer
-- **Currently Studying:** Flutter, React Native and Kotlin
+- **Currently Studying:** Flutter, React Native
 <p align="center">
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/?username=EngDann&style=for-the-badge&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&show_icons=true&icon_color=F2F2F2&rank_icon=github"/>
   <img height="180cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngDann&&style=for-the-badge&title_color=F73C7B&text_color=F2F2F2&bg_color=393359&border_color=121111&show_icons=true&icon_color=F2F2F2&rank_icon=github&layout=compact"/> 
@@ -30,7 +29,6 @@
 
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)&nbsp;
 ![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white)&nbsp;
 ![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)&nbsp;
